@@ -12,7 +12,7 @@ A Machine Learning-based web application that detects whether a message is **Spa
 
 ## 📸 App Preview
 
-![App Screenshot](Screenshot.png)
+![App Screenshot](Screenshot1.png)
 
 ---
 
