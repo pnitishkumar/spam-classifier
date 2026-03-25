@@ -23,7 +23,6 @@ A Machine Learning-based web application that classifies messages as Spam or Not
 
 ## ▶️ Run Locally
 pip install -r requirements.txt
-streamlit run app.py
 
 ---
 
